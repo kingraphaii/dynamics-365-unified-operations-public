@@ -35,8 +35,7 @@ This tutorial requires you to access the environment using Remote Desktop and to
 2. On the **File** menu, point to **Open** and then click **Project/Solution**.
 3. Browse to the **Desktop,** and then open the **FleetManagement** folder. If the solution file is not on your computer, the steps to create it are listed in [Tutorial: Create a Fleet Management solution file out of the Fleet Management models in the AOT](https://community.dynamics.com/ax/b/newdynamicsax/archive/2016/05/19/tutorial-create-a-fleet-management-solution-file-out-of-the-fleet-management-models-in-the-aot).
 4. Select the solution file named **FleetManagement**. The file type listed is Microsoft Visual Studio Solution (**SLN** file).
-    - The fleet management solution file is available on the downloadable
-    - VHD.
+    - The fleet management solution file is available on the downloadable VHD.
 
 5. Click **Open**. The solution may take some time to load.
 
